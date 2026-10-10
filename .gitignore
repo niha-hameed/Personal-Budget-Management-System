@@ -1,0 +1,11 @@
+# Visual Studio generated files
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+
+# Local financial records
+transactions.csv
+budgets.csv
