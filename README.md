@@ -94,8 +94,8 @@ Paths are relative to the application's working directory. Transaction data is a
 - The transaction reader interprets stored dates as Hijri dates, while the writer formats the selected date directly. Date round-tripping should be checked before relying on search results.
 - CSV handling uses simple comma-separated fields; quoted fields and categories containing commas are not supported.
 
-## Author and repository history
+## Author
 
 **Nihal Hameed Alharbi** — [GitHub](https://github.com/niha-hameed)
 
-This portfolio copy is forked from [ghazalalsharif/Personal-Budget-Management-System](https://github.com/ghazalalsharif/Personal-Budget-Management-System), preserving the original repository history.
+This README documents the project files provided for this portfolio.
