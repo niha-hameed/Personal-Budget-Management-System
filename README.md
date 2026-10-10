@@ -11,6 +11,19 @@ A desktop project for recording expenses, organizing category budgets, and visua
 
 Developed by **Nihal Hameed Alharbi**, this application combines expense entry, CSV file storage, date-based transaction searches, and category charts in a Windows Forms interface.
 
+## Visual previews
+
+The following images are **illustrative UI mockups** based on the documented application features. They are **not actual screenshots from a running build**, and the displayed values are examples.
+
+### Add a transaction
+![Illustrative transaction entry interface](screenshots/transaction-entry-mockup.svg)
+
+### Configure category budgets
+![Illustrative budget settings interface](screenshots/budget-settings-mockup.svg)
+
+### Search and visualize expenses
+![Illustrative transaction summary interface](screenshots/transaction-summary-mockup.svg)
+
 ## Features
 
 - Record an expense with its date, amount, and category.
